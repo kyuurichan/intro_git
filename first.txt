@@ -1,4 +1,7 @@
 gitの練習
 
 git add
-git commit
+git commi
+
+
+lkasdjfklajt
