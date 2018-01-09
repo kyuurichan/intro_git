@@ -4,4 +4,9 @@ git add
 git commi
 
 
-lkasdjfklajt
+lkasdjfklaj
+
+
+st
+git status
+
